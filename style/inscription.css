@@ -1,0 +1,87 @@
+body{
+    background: #8cc0a6;
+    margin:auto center; 
+    
+}
+img.p1{
+margin-left: 600px; 
+height: ;
+float: center;
+
+}
+
+
+.container{
+    width:400px;
+    margin:0 auto;
+    
+}
+/* Bordered form */
+.form1 {
+    margin: auto;
+    width:100%;
+    padding: 0px;
+    border: 8px solid #fff;
+   background-color: #8cc0a6;
+    color: white;
+    text-align: center;
+
+}
+form {
+    margin :auto; 
+    margin-bottom: 20px;
+    border-radius: 1%;
+    width:60%;
+    padding: 30px;
+    border: 1px solid  round #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    text-align: center;
+}
+.container h1{
+    width: 38%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password],input[type=file],input[type=date],input[type=text],select,textarea {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+input[type=submit] {
+    background-color: #53af57;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: ;
+}
+input[type=submit]:hover {
+    background-color: white;
+    color: #53af57;
+    border: 1px solid #53af57;
+}
+
+
+.btn {
+    background-color: #dc3545;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 31%;
+}
+.btn:hover {
+    background-color: white;
+    color: #dc3545;
+    border: 1px solid #dc3545;
+}

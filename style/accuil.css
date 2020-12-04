@@ -1,0 +1,91 @@
+body {
+
+  text-align: center;
+  
+  float: center;
+}
+
+.btn-success{ 
+ background-color: #53af57;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;}
+.btn-success:hover {
+    background-color: white;
+    color: #53af57;
+    border: 1px solid #53af57;
+}
+
+.admin{
+    margin-top: 10px;
+    margin-right: 40px;
+    padding-bottom: 80px;
+    padding-top: 200px;
+    padding: 25px;
+    width:120% ;
+    border: 1px solid #f1f1f1;
+    border-radius: 3%;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    float: right ;
+    
+}
+
+.utilisateur{
+    margin-top: 80px;
+    margin-bottom: 60px;
+    margin-left: 20px;
+    width:140% ;
+    padding: 10px;
+    border: 1px solid #f1f1f1;
+    border-radius: 3%;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    float: left ;
+}
+    
+}
+
+
+
+td{ 
+  width: 33%;
+
+}
+
+
+.container h1{
+    
+    padding-bottom: 10px;
+    float: center;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+    width: center;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+/* Set a style for all buttons */
+input[type=submit] {
+    background-color: #53af57;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;}
+}
+input[type=submit]:hover {
+    background-color: white;
+    color: #53af57;
+    border: 1px solid #53af57;
+}
